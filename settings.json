@@ -1,0 +1,27 @@
+{
+    "ip": "10.10.0.1",
+    "port":    9072,
+    "camport": 8000,
+
+
+
+    "blue_on_right": true,
+
+    "arm_angles": {
+        "a":90,
+        "b":110,
+        "c":150,
+        "d":90,
+        "e":40,
+        "f":90
+    },
+
+    "PID": {
+        "P":0.9,
+        "I":0,
+        "D":0.5
+    },   
+    "speed": 70,
+    "goal": 83,
+    "switch_lr": false
+}

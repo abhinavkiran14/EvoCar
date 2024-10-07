@@ -1,0 +1,15 @@
+{
+	"ip": "10.10.0.1",
+	"port":    9072,
+	"camport": 8000,
+	"blue_on_right": false,
+	"PID": {
+		"P":1.0,
+		"I":0.001,
+		"D":0.5
+		},
+
+	"speed": 75,
+	"goal": 90, 
+	"switch_lr": false
+}
