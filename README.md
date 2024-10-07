@@ -1,8 +1,5 @@
 # Documentation
 
-## Method.md
-Contains information about the techniques used in lane detection and movement on a high level
-
 ## ROS.md
 Contains information about the ROS setup we are using. For example, which things act as nodes or which version of ROS are we using.
 
